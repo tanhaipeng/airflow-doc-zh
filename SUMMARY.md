@@ -1,5 +1,7 @@
 # Summary
 
-* [简介](README.md)
+* [翻译背景](README.md)
+
+* [简介](introduction.md)
 
 * [项目](project/project.md)
