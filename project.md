@@ -93,3 +93,17 @@ Airflow 于 2014 年 10 月由 Airbnb 的 Maxime Beauchemin 启动。它从第�
 - Xinbin Huang (@xinbinhuang)
 
 有关贡献者的完整列表，请查看 [Airflow 的 GitHub 贡献者页面](https://github.com/apache/airflow/graphs/contributors)
+
+# 资源和链接
+- [Airflow官方文档](https://airflow.apache.org/docs/)
+
+- Mailing lists:
+    - Developer's mailing list: dev-subscribe@airflow.apache.org
+    - All commits mailing list: commits-subscribe@airflow.apache.org
+    - Airflow users mailing list: users-subscribe@airflow.apache.org
+
+- [GitHub Issues](https://github.com/apache/airflow/issues)
+
+- [Slack](https://s.apache.org/airflow-slack)
+
+- [Airflow改进提议](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Improvements+Proposals)

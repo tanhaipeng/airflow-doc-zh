@@ -4,4 +4,4 @@
 
 * [简介](introduction.md)
 
-* [项目](project/project.md)
+* [项目](project.md)
