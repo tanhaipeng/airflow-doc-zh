@@ -1,5 +1,6 @@
 {
     "plugins": [
-        "expandable-chapters-small"
+        "advanced-emoji",
+        "expandable-chapters"
     ]
 }
