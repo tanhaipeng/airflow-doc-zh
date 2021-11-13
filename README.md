@@ -10,7 +10,14 @@ npm install gitbook-cli -g
 gitbook -V
 ```
 
-clone本项目后，执行`serve`命令可以本地浏览文档：
+clone本项目后，首先需要安装gitbook插件：
+```
+gitbook install advanced-emoji
+
+gitbook install expandable-chapters
+```
+
+然后执行`serve`命令可以本地浏览文档：
 ```
 gitbook serve
 ```
