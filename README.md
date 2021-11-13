@@ -21,8 +21,8 @@ gitbook install expandable-chapters
 ```
 gitbook serve
 ```
-默认访问地址是 http://localhost:4000/
-
+- 本地默认访问地址是 http://localhost:4000/
+- Github Page https://tanhaipeng.github.io/airflow-doc-zh/
 
 # 贡献者
 - [@tanhaipeng](https://github.com/tanhaipeng)
